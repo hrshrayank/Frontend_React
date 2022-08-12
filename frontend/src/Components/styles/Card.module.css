@@ -1,0 +1,21 @@
+.card {
+    max-width: 1400px;
+    border: 1px solid black;
+    display: flex;
+    width: fit-content;
+    background-color: rgb(186, 224, 248);
+    margin: 10px 0px;
+    padding: 10px;
+    border-radius: 20px;
+    /* width: 800px; */
+    
+}
+.card:hover {
+    background-color: rgb(104, 181, 230);
+}
+
+
+.content {
+    width: 400px;
+    font-size: 15px;
+}
